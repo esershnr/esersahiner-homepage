@@ -20,10 +20,10 @@ const ContactForm = () => {
         setTimeout(() => {
             emailjs
                 .send(
-                    "change_me", //service_key
-                    "change_me", //template_key
+                    "change_me", //service_id
+                    "change_me", //template_id
                     values,
-                    "change_me" //user_key
+                    "change_me" //user_id
                 )
                 .then(
                     (result) => {
