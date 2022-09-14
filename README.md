@@ -37,7 +37,7 @@ const ContactForm = () => {
                 )
 ```
 
-change the "change_me" areas with your IDs from EmailJS dashboard. 
+change the "change_me" areas with your IDs from [EmailJS](https://dashboard.emailjs.com/) dashboard. 
 
 # License
 
