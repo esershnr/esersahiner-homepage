@@ -1,0 +1,15 @@
+{
+    "firstTitle": "Çalışmalar",
+    "visualWorks": "Görsel Çalışmalar",
+    "videoMontage": "Video & Montaj",
+    "vwDesc": "Buraya tıklayarak Adobe Photoshop ve Illustrator çalışmalarımı görebilirsiniz.",
+    "vmDesc": "Buraya tıklayarak Adobe AfterEffects and Premiere projelerimi görebilirsiniz.",
+    "secondTitle": "Web Uygulamaları ve Projeler",
+    "redDead": "Red Dead Redemption Şablonu",
+    "resTemplate": "Mobil Uyumlu Basit Şablon",
+    "githubFinder": "Github Finder",
+    "redDeadDesc": "Temel Css, Html ve JavaScript kullanılarak oluşturulmuş RD:O / RDR 2 şablonu.",
+    "resTemplateDesc": "Bu şablon Html, Css ve JavaScript kullanılarak oluşturuldu, ayrıca çeşitli javascript kütüphaneleriyle oluşturulmuş ufak animasyonlara sahip.",
+    "githubFinderDesc": "Bu benim ilk react projem. Buraya tıklayarak kaynak koduna ve canlı demoya ulaşabilirsiniz.",
+    "githubFinderInDepthDesc": "Bu uygulama Github Api ve ReactJS kullanılarak oluşturulmuş bir web aplikasyondur. Aplikasyon github apisi kullanılarak kullanıcı arama, profillere ve repolara göz atma amacı taşımaktadır. Bununla beraber içeriğinde animasyon kütüphaneleri de yer almaktadır ve bootstrap kullanılarak stilize edilmiştir."
+}

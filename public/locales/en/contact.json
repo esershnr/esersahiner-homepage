@@ -1,0 +1,22 @@
+{
+    "contactFormTitle": "Contact Form",
+    "altTitle": "Other",
+    "errorName": "Name is required!",
+    "errorEmail": "Email is required!",
+    "errorEmailInvalidAdress": "Email is required!",
+    "errorMessage": "Message is required!",
+    "errorMessageTooShort": "Message is too short! Message content must bigger than 10 characters.",
+    "labelName": "First Name",
+    "labelSurname": "Last Name",
+    "labelEmail": "E-mail",
+    "labelMessage": "Message",
+    "pholderMesage" : "Your message...",
+    "buttonSubmit": "Submit",
+    "buttonReset": "Reset",
+    "altPhone": "Phone",
+    "altMail": "Mail",
+    "altWhatsApp": "WhatsApp",
+    "alertInfo": "Please fill out the form to contact me.",
+    "alertError": "Form could not be sent! Please try again later.",
+    "alertSuccess": "Message has been sent!"
+}

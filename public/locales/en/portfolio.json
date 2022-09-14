@@ -1,0 +1,15 @@
+{
+    "firstTitle": "Works",
+    "visualWorks": "Visual Works",
+    "videoMontage": "Video & Montage",
+    "vwDesc": "You can reach my Adobe Photoshop and Illustrator projects by clicking here.",
+    "vmDesc": "You can reach my Adobe AfterEffects and Premiere projects by clicking here.",
+    "secondTitle": "Web Apps and Projects",
+    "redDead": "Red Dead Redemption Template",
+    "resTemplate": "Responsive Simple Template",
+    "githubFinder": "Github Finder",
+    "redDeadDesc": "I created RD:O / RDR 2 Themed website by using basic css, html & javascript.",
+    "resTemplateDesc": "This theme has simple and minimal touches on itself. It has only one page and created with basic html, css & javascript.",
+    "githubFinderDesc": "This is my first React.js app. I used Github Api on this project. You can view the source and live demo by clicking here.",
+    "githubFinderInDepthDesc": "This web application built using Github Api and ReactJS. The application uses the github api to search for users, browse profiles and repos. It also includes animation libraries and is stylized using bootstrap."
+}

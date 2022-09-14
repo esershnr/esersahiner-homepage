@@ -1,0 +1,22 @@
+{
+    "contactFormTitle": "İletişim Formu",
+    "altTitle": "Diğer",
+    "errorName": "Ad gerekli!",
+    "errorEmail": "E-Posta gerekli!",
+    "errorEmailInvalidAdress": "E-Posta adresi geçerli değil!",
+    "errorMessage": "Mesaj gerekli!",
+    "errorMessageTooShort": "Mesaj çok kısa! Mesaj içeriği en az 10 karakter içermelidir.",
+    "labelName": "Ad",
+    "labelSurname": "Soyad",
+    "labelEmail": "E-Posta",
+    "labelMessage": "Mesaj",
+    "pholderMesage" : "Mesajınız...",
+    "buttonSubmit": "Gönder",
+    "buttonReset": "Sıfırla",
+    "altPhone": "Telefon",
+    "altMail": "E-Posta",
+    "altWhatsApp": "WhatsApp",
+    "alertInfo": "Benimle iletişime geçmek için lütfen formu doldurun.",
+    "alertError": "Form gönderilemedi! Lütfen daha sonra tekrar deneyin.",
+    "alertSuccess": "Mesaj gönderildi!"
+}
