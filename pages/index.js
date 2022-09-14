@@ -16,11 +16,6 @@ const Home = () => {
         <Layout>
             <Container>
                 <AboutMe />
-                <Box mt={10} rounded="15" width="100%" as='video'
-                controls
-                src="/videos/zeshavideo.mp4"
-                alt='Logo Video'>
-                </Box>
                 <Section delay={0.1} my={10}>
                     <Heading as="h3" variant="section-title">
                         {t("backGroundTitle")}
