@@ -4,13 +4,14 @@
 
 # Stack
 
-[Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
-[Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
-[Framer Motion](https://www.framer.com/motion/) - An animation library for React
-[i18next](https://www.i18next.com/) - An internationalization framework for JavaScript
+ - [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
+ - [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
+ - [Framer Motion](https://www.framer.com/motion/) - An animation library for React
+ - [i18next](https://www.i18next.com/) - An internationalization framework for JavaScript
 
 # Contact Me - EmailJS
-## To make form work
+
+To make form work
 
 ```
 $PROJECT_ROOT
@@ -19,7 +20,7 @@ $PROJECT_ROOT
     ├──contact-form.js
 ```
 
-At line 17
+Starts at line 17
 
 ```
 
