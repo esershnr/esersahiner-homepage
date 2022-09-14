@@ -49,4 +49,4 @@ You can create your own homepage for free without notifying me under the followi
  - Do not use my logo
  - Do not use the svg animation where is in homepage
 
-Check out LICENSE for more detail.
+Check out [LICENSE](https://github.com/esershnr/esersahiner-homepage/blob/main/License) for more detail.
