@@ -37,7 +37,17 @@ const ContactForm = () => {
                 )
 ```
 
-change the "change_me" areas with your IDs from [EmailJS](https://dashboard.emailjs.com/) dashboard. 
+change the "change_me" areas with your IDs from [EmailJS](https://dashboard.emailjs.com/) dashboard.
+
+# Important Note(s)
+
+Differences between live version and this repo are;
+
+ - Live has resume download counter. (Firebase integration)
+ 
+ - Live has a video at home page.
+ 
+ - Live's contact form works well :)
 
 # License
 
