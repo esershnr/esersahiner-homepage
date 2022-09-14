@@ -1,4 +1,4 @@
-# Eser's Homepage
+# Eser Sahiner's Homepage
 
 [Click here](https://www.esersahiner.com/) to see it live!
 
